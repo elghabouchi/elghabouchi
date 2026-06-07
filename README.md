@@ -2,26 +2,49 @@
 
 MSc Student in Cryptography & Information Security.
 
-I am interested in applied cryptography, smart contract security, blockchain protocols, and security research.
+My interests lie at the intersection of applied cryptography, provable security, cryptographic protocols, and smart contract security.
 
 ## Research Interests
 
-* Applied Cryptography
+* Provable Security
+* Cryptographic Protocols
 * Zero-Knowledge Proofs
 * Post-Quantum Cryptography
-* Cryptographic Protocols
-* Smart Contract Security
+* Blockchain Security
 
 ## Current Focus
 
-* Building a Crypto Research Lab
-* Studying Provable Security Concepts
+* Security Games (IND-CPA, IND-CCA, EUF-CMA)
+* Digital Signatures and Identification Protocols
+* Zero-Knowledge Constructions
 * Security Analysis of Smart Contracts
-* Cryptographic Implementations in C++, Rust, and Python
+* Post-Quantum Cryptography
+
+## Projects
+
+### Crypto Research Lab
+
+Research-oriented repository containing:
+
+* Cryptographic protocols
+* Security analyses
+* Technical reports
+* Paper reviews
+* Educational implementations
+
+### Smart Contract Security Lab
+
+Security-focused repository containing:
+
+* Vulnerability analysis
+* Smart contract testing
+* Security reviews
+* Audit notes
+* Threat modeling
 
 ## Technical Skills
 
-### Programming
+### Programming Languages
 
 * Rust
 * Python
@@ -35,31 +58,14 @@ I am interested in applied cryptography, smart contract security, blockchain pro
 * LaTeX
 * VS Code
 
-### Areas
-
-* Cryptography
-* Information Security
-* Blockchain Security
-* Smart Contract Security
-
-## Featured Projects
-
-### Crypto Research Lab
-
-A collection of cryptographic implementations, security analyses, paper reviews, and technical reports.
-
-### Smart Contract Security Lab
-
-Security-focused smart contract studies, vulnerability analysis, testing, and audit reports.
-
 ## Education
 
 MSc in Cryptography & Information Security
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/hamza-el-ghabouchi
+* LinkedIn: linkedin.com/in/hamza-el-ghabouchi
 
 ---
 
-> Always learning. Always building. Always questioning security assumptions.
+> Interested in understanding not only how cryptographic systems work, but also why they are secure.
