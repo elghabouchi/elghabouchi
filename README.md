@@ -26,7 +26,7 @@ I am interested in applied cryptography, smart contract security, blockchain pro
 * Rust
 * Python
 * C++
-* java
+* Solidity
 
 ### Tools
 
