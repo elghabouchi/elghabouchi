@@ -22,8 +22,8 @@ My interests lie at the intersection of applied cryptography, provable security,
 
 ## Projects
 
-### Crypto Research Lab
-🔗 [Crypto Research Lab](https://github.com/elghabouchi/crypto-research-lab)
+### [Crypto Research Lab](https://github.com/elghabouchi/crypto-research-lab)
+
 Research-oriented repository containing:
 
 * Cryptographic protocols
@@ -32,8 +32,8 @@ Research-oriented repository containing:
 * Paper reviews
 * Educational implementations
 
-### Smart Contract Security Lab
-🔗 [Smart Contract Security Lab](https://github.com/elghabouchi/smart-contract-security-lab)
+###  [Smart Contract Security Lab](https://github.com/elghabouchi/smart-contract-security-lab)
+
 Security-focused repository containing:
 
 * Vulnerability analysis
