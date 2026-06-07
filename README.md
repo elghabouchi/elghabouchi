@@ -64,7 +64,8 @@ MSc in Cryptography & Information Security
 
 ## Contact
 
-* [LinkedIn](https://linkedin.com/in/hamza-el-ghabouchi) 
+* [LinkedIn](https://linkedin.com/in/hamza-el-ghabouchi)
+* [GitHub](https://github.com/elghabouchi)
 
 ---
 
