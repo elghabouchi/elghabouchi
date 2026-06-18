@@ -2,23 +2,22 @@
 
 MSc Student in Cryptography & Information Security.
 
-My interests lie at the intersection of applied cryptography, provable security, cryptographic protocols, and smart contract security.
+My interests focus on applied cryptography, cryptographic protocols, distributed systems security, blockchain protocols, and smart contract security.
 
 ## Research Interests
 
-* Provable Security
+* Applied Cryptography
 * Cryptographic Protocols
-* Zero-Knowledge Proofs
-* Post-Quantum Cryptography
-* Blockchain Security
+* Distributed Systems
+* Blockchain Protocols
+* Smart Contract Security
 
 ## Current Focus
 
-* Security Games (IND-CPA, IND-CCA, EUF-CMA)
-* Digital Signatures and Identification Protocols
-* Zero-Knowledge Constructions
+* Building a Crypto Research Lab
+* Studying Distributed Systems and Blockchain Architectures
+* Exploring Cryptographic and Blockchain Protocols
 * Security Analysis of Smart Contracts
-* Post-Quantum Cryptography
 
 ## Projects
 
@@ -31,8 +30,21 @@ Research-oriented repository containing:
 * Technical reports
 * Paper reviews
 * Educational implementations
+  
+### [Blockchain Abstractions Study](https://github.com/elghabouchi/blockchain-abstractions-study)
 
-###  [Smart Contract Security Lab](https://github.com/elghabouchi/smart-contract-security-lab)
+Academic repository based on my undergraduate final-year project, containing:
+
+* Comparative study of Solana, Ethereum, and EOSIO
+* Distributed ledger architecture analysis
+* Consensus and transaction validation notes
+* On-chain and off-chain storage models
+* IPFS-based decentralized storage
+* Smart contract interaction models
+* Blockchain platform trade-off analysis
+
+  
+### [Smart Contract Security Lab](https://github.com/elghabouchi/smart-contract-security-lab)
 
 Security-focused repository containing:
 
@@ -64,8 +76,8 @@ MSc in Cryptography & Information Security
 
 ## Contact
 
-* [LinkedIn](https://linkedin.com/in/hamza-el-ghabouchi)
-* [GitHub](https://github.com/elghabouchi)
+* LinkedIn
+* GitHub
 
 ---
 
