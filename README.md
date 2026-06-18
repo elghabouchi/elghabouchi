@@ -76,7 +76,6 @@ Security-focused repository containing:
 Current
 
 ### BSc in Mathematical and Computer Sciences
-Undergraduate final-year project focused on blockchain and distributed ledger systems.
 
 
 ## Contact
