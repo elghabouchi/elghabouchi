@@ -72,7 +72,12 @@ Security-focused repository containing:
 
 ## Education
 
-MSc in Cryptography & Information Security
+### MSc in Cryptography & Information Security
+Current
+
+### BSc in Mathematical and Computer Sciences
+Undergraduate final-year project focused on blockchain and distributed ledger systems.
+
 
 ## Contact
 
