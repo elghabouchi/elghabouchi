@@ -35,7 +35,7 @@ Research-oriented repository containing:
 
 Academic repository based on my undergraduate final-year project, containing:
 
-* Comparative study of Solana, Ethereum, and EOSIO
+* Comparative study of  Ethereum and Solana 
 * Distributed ledger architecture analysis
 * Consensus and transaction validation notes
 * On-chain and off-chain storage models
