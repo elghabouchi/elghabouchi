@@ -43,16 +43,6 @@ Academic repository based on my undergraduate final-year project, containing:
 * Smart contract interaction models
 * Blockchain platform trade-off analysis
 
-  
-### [Smart Contract Security Lab](https://github.com/elghabouchi/smart-contract-security-lab)
-
-Security-focused repository containing:
-
-* Vulnerability analysis
-* Smart contract testing
-* Security reviews
-* Audit notes
-* Threat modeling
 
 ## Technical Skills
 
