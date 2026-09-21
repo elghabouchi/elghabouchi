@@ -18,7 +18,7 @@ My interests focus on provable security, cryptographic protocols, and applied cr
 
 ### [Crypto Research Lab](https://github.com/elghabouchi/crypto-research-lab)
 
-Research-oriented repository containing:
+Research-oriented repository structured around:
 
 * Security definitions and security games
 * Cryptographic protocols and provable security
@@ -61,7 +61,7 @@ Current
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/hamza-el-ghabouchi)
-* [Email](hamza.elghabouchi@outlook.com)
+* [Email](mailto:hamza.elghabouchi@outlook.com)
 
 ---
 
