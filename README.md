@@ -2,22 +2,17 @@
 
 MSc Student in Cryptography & Information Security.
 
-My interests focus on applied cryptography, cryptographic protocols, distributed systems security, blockchain protocols, and smart contract security.
+My interests focus on provable security, cryptographic protocols, and applied cryptography, with particular interest in the security foundations of distributed and blockchain systems.
+
 
 ## Research Interests
 
-* Applied Cryptography
+* Provable Security
 * Cryptographic Protocols
-* Distributed Systems
-* Blockchain Protocols
-* Smart Contract Security
-
-## Current Focus
-
-* Building a Crypto Research Lab
-* Studying Distributed Systems and Blockchain Architectures
-* Exploring Cryptographic and Blockchain Protocols
-* Security Analysis of Smart Contracts
+* Applied Cryptography
+* Zero-Knowledge Proofs
+* Post-Quantum Cryptography
+* Blockchain & Distributed Systems Security
 
 ## Projects
 
@@ -25,23 +20,20 @@ My interests focus on applied cryptography, cryptographic protocols, distributed
 
 Research-oriented repository containing:
 
-* Cryptographic protocols
-* Security analyses
-* Technical reports
-* Paper reviews
-* Educational implementations
+* Security definitions and security games
+* Cryptographic protocols and provable security
+* Zero-knowledge foundations
+* Post-quantum cryptography
+* Technical notes, paper reviews, and educational implementations
   
 ### [Blockchain Abstractions Study](https://github.com/elghabouchi/blockchain-abstractions-study)
 
 Academic repository based on my undergraduate final-year project, containing:
 
-* Comparative study of  Ethereum and Solana 
-* Distributed ledger architecture analysis
-* Consensus and transaction validation notes
-* On-chain and off-chain storage models
-* IPFS-based decentralized storage
-* Smart contract interaction models
-* Blockchain platform trade-off analysis
+* Comparative analysis of Ethereum and Solana architectures
+* Consensus, transaction validation, and state/storage models
+* Security and architectural trade-offs in distributed ledger systems
+
 
 
 ## Technical Skills
@@ -51,14 +43,12 @@ Academic repository based on my undergraduate final-year project, containing:
 * Rust
 * Python
 * C++
-* Solidity
 
 ### Tools
 
 * Linux
 * Git & GitHub
 * LaTeX
-* VS Code
 
 ## Education
 
@@ -70,8 +60,8 @@ Current
 
 ## Contact
 
-* LinkedIn
-* GitHub
+* [LinkedIn](https://www.linkedin.com/in/hamza-el-ghabouchi)
+* [Email](hamza.elghabouchi@outlook.com)
 
 ---
 
