@@ -61,7 +61,7 @@ Current
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/hamza-el-ghabouchi)
-* [Email](mailto:hamza.elghabouchi@outlook.com)
+* [Email](mailto:hamza@elghabouchi.com)
 
 ---
 
